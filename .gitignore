@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+media/
+.idea/
+/.venv
